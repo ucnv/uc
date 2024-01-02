@@ -1,3 +1,5 @@
 .DS_Store
-newfile*
 tmp*
+scripts/*
+deno.json
+deno.lock
