@@ -4,41 +4,9 @@ mere useless codes
 ## Latest code
 <!-- current -->
 ```javascript
-f()
-function f() {
-  return true
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
-  return false
+function a(x) {
+  return x
 }
+console.log(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(a(0)))))))))))))))))))))))))))))))))
 ```
 <!-- /current -->
