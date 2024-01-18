@@ -1,0 +1,1 @@
+(ooo,oo,o) => [ooo||o||ooo] <= (o,oo,ooo)
