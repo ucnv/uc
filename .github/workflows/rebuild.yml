@@ -1,0 +1,11 @@
+name: rebuild uc.ucnv.org
+on:
+  push:
+    branches: [ main ]
+jobs:
+  update: 
+    runs-on: ubuntu-latest
+    steps:
+      - name: exec wget
+        continue-on-error: true
+        run: wget --spider https://uc.ucnv.org/api/update
