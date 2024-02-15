@@ -1,4 +1,4 @@
-name: rebuild uc.ucnv.org
+name: deploy to uc.ucnv.org
 on:
   push:
     branches: [ main ]
