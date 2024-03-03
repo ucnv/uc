@@ -3,13 +3,8 @@ mere useless codes
 
 ## Latest code
 <!-- current -->
-1709425276388.js
+1709425413344.js
 ```javascript
-false === false === false === false === false ===
-false === false === false === false === false ===
-false === false === false === false === false ===
-false === false === false === false === false ===
-false === false === false === false === false ===
-false === false === false === false === false
+while (true ? true : true ? true : true ? true : true ? true : true ? true : true ? true : true ? true : true) break
 ```
 <!-- /current -->

@@ -1,0 +1,1 @@
+while (true ? true : true ? true : true ? true : true ? true : true ? true : true ? true : true ? true : true) break
