@@ -3,60 +3,8 @@ mere useless codes
 
 ## Latest code
 <!-- current -->
-1711232100418.js
+1711667721550.mjs
 ```javascript
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void void void
-void void void void void void void void void void void void void void void void void void void void void void undefined
+export default await await await await await await await await await await true
 ```
 <!-- /current -->
