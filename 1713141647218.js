@@ -1,10 +1,3 @@
-# uc
-mere useless codes
-
-## Latest code
-<!-- current -->
-1713141647218.js
-```javascript
 [[[[[[[[['Oo']]]]]]]]]
 [[[[[[[[[0]]]]]]]]]
 [[[[[[[[0]]]]]]]]
@@ -15,5 +8,3 @@ mere useless codes
 [[[0]]]
 [[0]]
 [0]
-```
-<!-- /current -->
