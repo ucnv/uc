@@ -3,8 +3,8 @@ mere useless codes
 
 ## Latest code
 <!-- current -->
-1714280341213.js
+1716157371565.js
 ```javascript
-' + ' + ' + ' + ' + ' + ' + ' + ' + '
+([{a}]) => ([{a}])
 ```
 <!-- /current -->
