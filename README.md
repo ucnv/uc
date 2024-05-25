@@ -3,8 +3,10 @@ mere useless codes
 
 ## Latest code
 <!-- current -->
-1716157371565.js
+1716641799259.js
 ```javascript
-([{a}]) => ([{a}])
+/*de*/let/*e  x  .  ={*/a/*}*/=false
+/*de*/let/*e*/x/*.*/={  a  }/*=false*/
+    delete    x  ./*={*/a/*}  =false*/
 ```
 <!-- /current -->
