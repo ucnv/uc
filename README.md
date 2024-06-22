@@ -3,10 +3,14 @@ mere useless codes
 
 ## Latest code
 <!-- current -->
-1716641799259.js
+1719095767483.js
 ```javascript
-/*de*/let/*e  x  .  ={*/a/*}*/=false
-/*de*/let/*e*/x/*.*/={  a  }/*=false*/
-    delete    x  ./*={*/a/*}  =false*/
+            function shuffle(arr) {
+        return arr.sort(
+    function() {
+return Math.random() - 0.5
+    }
+        )
+            }
 ```
 <!-- /current -->
