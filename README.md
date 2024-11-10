@@ -3,9 +3,8 @@ mere useless codes
 
 ## Latest code
 <!-- current -->
-1730718471356.js
+1731228378238.js
 ```javascript
-Infinity
-Infinity
+Infinity | Infinity
 ```
 <!-- /current -->
