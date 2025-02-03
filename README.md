@@ -3,33 +3,11 @@ mere useless codes
 
 ## Latest code
 <!-- current -->
-1737541800481.html
+1738617752363.sh
 ```javascript
-<html>
-  <head>
-  </head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <body bgColor="#face">
-  </body>
-</html>
+while true
+do
+  cd .
+done
 ```
 <!-- /current -->
