@@ -3,11 +3,8 @@ mere useless codes
 
 ## Latest code
 <!-- current -->
-1738617752363.sh
+1746322772006.html
 ```javascript
-while true
-do
-  cd .
-done
+<<
 ```
 <!-- /current -->
